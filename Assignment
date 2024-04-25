@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+  <head>
+   <titel>Assignment</titel>
+  </head>
+  <body>
+     <pre> My name is Nftaliem Mulugeta I'm grade 9i </pre>
+     <p> let's use  <a href="http://m.facebook.com">Facebook </a>with me</p>
+     <table border="1 | 2">
+        <tr>
+          <th>Head</th>
+          <th>Head</th>
+          <th>Head</th>
+        </tr>
+        <tr> 
+          <td>Data</td>
+          <td>Data</td>
+          <td>Data</td>
+        </tr>
+        <tr> 
+          <td>Data</td>
+          <td>Data</td>
+          <td>Data</td>
+        </tr>
+     </table>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Image.jpg" width=100>
+  </body>
+</html>
